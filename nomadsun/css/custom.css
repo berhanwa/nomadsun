@@ -1,0 +1,160 @@
+body {
+    font-family: 'Cardo', georgia, serif;
+    font-size: 18px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialias;
+}
+
+.cardo {
+    font-family: 'Cardo', georgia, serif;
+}
+
+.archivo,
+.text-block h3
+.text-block blockquote h4 {
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: normal;
+}
+
+.text-block blockquote h4 {
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin: 0;
+}
+
+
+.text-block blockquote p {
+    font-size: 36px;
+    line-height: 1.33;
+}
+
+.archivo-regular {
+    font-family: 'Archivo', sans-serif;
+}
+
+
+.tenor,
+.text-block blockquote p {
+    font-family: 'Tenor Sans', sans-serif;
+}
+
+
+.hero-content {
+    max-width: 750px;
+}
+
+.text-block h3 {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.line {
+    width: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px;
+    background-color: #1c1c1c;
+}
+
+
+.gallery-image img {
+    width: auto !important;
+    height: auto !important;
+    display: block;
+}
+
+.caption {
+    max-width: 870px;
+}
+
+.container {
+    max-width: 1300px;
+}
+
+.explore-title {
+    margin-bottom: 48px;
+    max-width: 320px;
+}
+
+.description {
+    max-width: 860px;
+}
+
+.footer-content {
+    background-color: #1c1c1c;
+}
+
+.link:focus {
+    outline: none;
+}
+
+.gallery .gallery-image:first-of-type {
+    margin-top: 0;
+}
+
+.gallery .gallery-image:last-of-type {
+    margin-bottom: 0;
+}
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+/* .flex {
+    max-width: 1336px;
+    align-items: center;
+    position: relative;
+} */
+
+.monkeypic {
+    top: 0;
+    /* height: 526px;
+    width: 639px; */
+}
+
+.monkeytext .ph4 {
+    padding-left: 5rem;
+    padding-right: 2rem;
+}
+
+/* 
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 32px;
+}
+
+.image-1 {
+	grid-column: span 2;
+	grid-row: span 2;
+}
+
+.square {
+	width: 100%;
+	height: 0;
+	padding-bottom: 100%;
+
+	background-color: red;
+
+	position: relative;
+}
+
+.square img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+} */
